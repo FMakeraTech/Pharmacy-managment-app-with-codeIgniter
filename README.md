@@ -7,3 +7,6 @@
 # pour voir mes codes et librairies
 
 # les fichiers system contient le code du framework
+
+# le fichier shamadb est le fichier de base de données vide à importer avant d'utiliser l'application
+# Personnaliser les identifiants de votre SGBD dans le fichier database.php de application/config
